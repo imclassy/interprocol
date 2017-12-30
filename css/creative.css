@@ -302,7 +302,8 @@
      font-weight: 700;
      text-transform: uppercase;
      border: none;
-     border-radius: 300px;
+     /* border-radius: 300px; */
+     border-radius: 0px;
      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif
  }
  
@@ -319,10 +320,10 @@
  .btn-primary:focus,
  .btn-primary:hover {
      color: #fff;
-     background-color: #ee4b28!important
+     background-color: #ab1323!important
  }
  
  .btn-primary:active,
  .btn-primary:focus {
-     box-shadow: 0 0 0 .2rem rgba(240, 95, 64, .5)!important
+     box-shadow: 0 0 0 .2rem rgba(171,19,35, .5)!important
  }
