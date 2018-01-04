@@ -60,6 +60,16 @@
     scale: 0.3,
     distance: '0px'
   }, 300);
+  sr.reveal('.sr-subheader', {
+    duration: 4000,
+    scale: 0.3,
+    distance: '0px'
+  }, 300);
+  sr.reveal('.sr-homebutton', {
+    duration: 5000,
+    scale: 0.3,
+    distance: '0px'
+  }, 300);
 
   // Magnific popup calls
   $('.popup-gallery').magnificPopup({
