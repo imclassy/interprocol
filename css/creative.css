@@ -327,3 +327,8 @@
  .btn-primary:focus {
      box-shadow: 0 0 0 .2rem rgba(171,19,35, .5)!important
  }
+
+ .about-img-box {
+     width: 100%;
+     max-width: 350px;
+ }
